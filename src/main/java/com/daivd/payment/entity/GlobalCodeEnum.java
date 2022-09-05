@@ -1,4 +1,4 @@
-package com.daivd.payment.entify;
+package com.daivd.payment.entity;
 
 /**
  * @author jiangqiao
